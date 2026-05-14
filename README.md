@@ -19,9 +19,8 @@ a human-centered perspective to technical analysis. I look forward to taking my 
 
 ### Projects
 
-Take a look at some projects I've worked on!
-
-- NBA Win Predictors: 
+Take a look at some projects I've worked on:
+https://nathanjean-packard.github.io/
 
 ### Contact
 
